@@ -3,5 +3,5 @@
 
 | Variable    | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Age      | Numeric       |
+| Salary   | Numeric        |
