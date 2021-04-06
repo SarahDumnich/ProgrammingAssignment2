@@ -4,3 +4,7 @@
 ## Var1 is age
 
 ## Var2 is Salary
+
+```{r}
+str(data$Salary)
+```
