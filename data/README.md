@@ -5,3 +5,7 @@
 | ----------- | ----------- |
 | Age      | Numeric       |
 | Salary   | Numeric        |
+| Age      | Numeric       |
+| Salary   | Numeric        |
+| Age      | Numeric       |
+| Salary   | Numeric        |
